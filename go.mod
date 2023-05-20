@@ -1,4 +1,4 @@
-module maelstrom-echo
+module flyio-challenge
 
 go 1.19
 
